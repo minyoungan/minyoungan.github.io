@@ -1,0 +1,423 @@
+{
+    "public_identifier":"minyoungan",
+    "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/minyoungan/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062650Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0664f92afc943d144c46cf98b4bcfc1dc1ba31c5a741e6a85f34f5f9b75b9a8c",
+    "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/minyoungan/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062650Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f150e48007bd9288bc75e916cbb4de40c9b69e0f3f7b41dd7bc83aa52d899367",
+    "first_name":"Minyoung",
+    "last_name":"An",
+    "full_name":"Minyoung An",
+    "follower_count":1358,
+    "occupation":"Software Engineer",
+    "headline":"Software Engineer",
+    "summary":"With over 8 years of dedicated experience, I am a seasoned developer specializing in the implementation of Customer Relationship Management (CRM) and Marketing Technology (MarTech) solutions for Fortune 500 companies and globally recognized brands.\\n\\nMy passion lies in creating innovative solutions that drive operational efficiency, enhance customer experiences, and contribute to the overall success of organizations. Let\\'s connect and explore new opportunities to collaborate on exciting projects!\\n\\n\\nTechnical Skills:\\n\\nProgramming Languages: Python, JavaScript, SQL, HTML, CSS, jQuery, PHP, Laravel, Java, C++\\nDatabases & Cloud Platforms: Microsoft SQL Server, Microsoft Azure\\nTools & Technologies: Tableau, Salesforce, AMPScript, Postman\\n\\nSalesforce:\\n\\nCertified Salesforce Marketing Cloud Developer, Consultant, Administrator & Email Specialist\\nProficient in Email Studio, Mobile Studio, Automation Studio, Content Builder, Journey Builder\\nExpertise in HTML, CSS, jQuery, AMPScript, Server Side JavaScript (SSJS), SQL, Python, PHP, Laravel, REST & SOAP APIs\\n\\nKey Achievements:\\n\\nCurrently involved in the development of a marketing operations tool within Salesforce Marketing Cloud, leveraging HTML, CSS, JavaScript, AMPScript, SQL, and Cloud Pages. This initiative has significantly improved data configuration accuracy by 80% to date.\\n\\nDeveloped a Kafka consumer application using Java and Spring Boot, enabling behavior-triggered emails by seamlessly sending data to Salesforce Marketing Cloud via REST API.\\n\\nSuccessfully exposed API endpoints and configured databases for external platforms, facilitating programmatically triggered emails and reducing development costs by 70% through Python script automation of email DevOps workflows.\\n\\nArchitected and implemented A/B testing campaigns integrated with Salesforce Marketing Cloud, SAP Hybris, and Facebook Ads. These campaigns, reaching 3 million subscribers weekly, resulted in a remarkable boost of incremental sales by up to 40%.\\n\\nAutomated the extract, transform, and load (ETL) process in Automation Studio, consolidating Salesforce Marketing Cloud data from diverse sources and making relevant data accessible to external vendors, including Google Cloud.\\n\\nEnhanced automated email deployments using custom-designed Javascript tracking code and SOAP APIs, providing valuable data insights for the organization\\'s email and web strategy maturation.\\nDeveloped ETL processes ensuring secure hashing of Personally Identifiable Information (PPI) data between platforms, safeguarding customer privacy.",
+    "country":"CA",
+    "country_full_name":"Canada",
+    "city":"Toronto",
+    "state":"Ontario",
+    "experiences":[
+        {
+            "starts_at":{
+                "day":1,
+                "month":4,
+                "year":2018
+            },
+            "ends_at":{
+                "day":30,
+                "month":4,
+                "year":2024
+            },
+            "company":"RBC",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/rbc",
+            "company_facebook_profile_url":null,
+            "title":"Software Engineer",
+            "description":"\\ud83d\\udd27 Crafting and tailoring email templates, landing pages, and web forms proficiently in HTML,\\nCSS, AMPscript, and SSJS, ensuring high-quality digital experiences.\\n\\ud83d\\udcca Driving multi-channel campaign success for high-end brands by meticulously conducting\\nA/B tests in Journey Builder, informed by UTM data and Google Analytics insights.\\n\\ud83c\\udfd7\\ufe0f Architecting and managing customer journeys from acquisition to advocacy in Journey\\nBuilder, employing SFMC automation and personalization to enhance user engagement.\\n\\ud83d\\udce7 Setting up email, SMS, and social media marketing in Audience Builder, utilizing dynamic\\ncontent, segmentation, and strategic consultation on best practices and functionalities.\\n\\ud83d\\udcc8 Managing data meticulously within SFMC, maintaining data governance and hygiene, while\\nintegrating seamlessly with CRM systems to ensure compatibility and functional workflows.\\n\\ud83d\\udcca Generating insightful analytical reports that are measuring campaign ROI, informing\\nstrategic business decisions, and shaping marketing strategies with a data-driven approach.\\n\\ud83c\\udf93 Delivering customized training sessions and workshops, developing user expertise, and\\npromoting the extensive utilization of the SFMC platform.",
+            "location":"Toronto, Ontario, Canada",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/rbc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062652Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=41ec8633da1c8ee3f8eca453443db10168ae99cbc7a2f3cbeb0f5e12a1d9f007"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":1,
+                "year":2017
+            },
+            "ends_at":{
+                "day":30,
+                "month":4,
+                "year":2018
+            },
+            "company":"Honda Canada Inc.",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/honda-canada-inc",
+            "company_facebook_profile_url":null,
+            "title":"Software Engineer",
+            "description":"\\ud83d\\udee0\\ufe0f Designed and implemented solutions to support the entire customer lifecycle by using targeted data segments based on vehicle models and cohorts of purchase years.\\n\\ud83c\\udfd7\\ufe0f Architected, launched, and maintained Honda Canada\\'s custom SFMC Email Preference Center, where subscribers can modify their email subscription settings.\\n\\ud83d\\udd17 Utilized Jitterbit and the SFMC Connector to perform ETL processes, managing large volumes of CRM data effectively.\\n\\u2705 Achieved compliance with global anti-spam laws by launching a bespoke Subscription Center site.\\n\\ud83d\\udd17 Integrated Salesforce Marketing Cloud using Jitterbit for databases of over 10 million records in size.",
+            "location":"Toronto, Ontario, Canada",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/honda-canada-inc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062652Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=865655722e6bd32033152849f1e50ea59494943c92a8512453b67ae9ff09c01f"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":6,
+                "year":2016
+            },
+            "ends_at":{
+                "day":31,
+                "month":1,
+                "year":2017
+            },
+            "company":"Cossette",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/cossette",
+            "company_facebook_profile_url":null,
+            "title":"Data Analyst",
+            "description":"\\ud83d\\udd04 Processed and transferred data using T-SQL from Microsoft SQL Server to SFMC for use in TD Canada\\'s and TD USA\\'s marketing campaigns.\\n\\ud83d\\udcca Created, improved, and managed data visualizations in Tableau, using data from Microsoft SQL Server to answer strategic questions.",
+            "location":"Toronto, Canada Area",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/cossette/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062652Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=96df79e77f01cd5e695481d1b5fd001d3e6f6ba093a71256b65fb73a03c187e1"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":12,
+                "year":2014
+            },
+            "ends_at":{
+                "day":30,
+                "month":6,
+                "year":2016
+            },
+            "company":"Dotfusion Digital Agency",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/dotfusion",
+            "company_facebook_profile_url":null,
+            "title":"Web Developer",
+            "description":"\\ud83d\\udee0\\ufe0f Developed a custom Preference Center for YokohamaTire.com using SFMC REST APIs.\\n\\ud83d\\udce6 Created an order management application using Python and PyQt for a local bike shop.",
+            "location":"Toronto, Canada Area",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/dotfusion/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062652Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b4cae697af11ce8a59af4af5ae509e45713a4b4f9997cd83e5ad1ba1b9e4d64"
+        }
+    ],
+    "education":[
+        {
+            "starts_at":{
+                "day":1,
+                "month":1,
+                "year":2013
+            },
+            "ends_at":null,
+            "field_of_study":"Accounting",
+            "degree_name":"Bachelor\\'s degree",
+            "school":"Tsinghua University",
+            "school_linkedin_profile_url":"https://www.linkedin.com/company/14022/",
+            "school_facebook_profile_url":null,
+            "description":null,
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/tsinghua-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062653Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c05de1bbc36c82a8ac0563d1402fe7b0d442973e6f7172c2f04f671df02d4716",
+            "grade":null,
+            "activities_and_societies":null
+        },
+        {
+            "starts_at":null,
+            "ends_at":null,
+            "field_of_study":null,
+            "degree_name":null,
+            "school":"Esade",
+            "school_linkedin_profile_url":"https://www.linkedin.com/company/163678/",
+            "school_facebook_profile_url":null,
+            "description":null,
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/esade/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062653Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ad61645ce256677c406da1645570b5f08377ebb567edf2464551052483aa9ca",
+            "grade":null,
+            "activities_and_societies":null
+        },
+        {
+            "starts_at":null,
+            "ends_at":null,
+            "field_of_study":null,
+            "degree_name":null,
+            "school":"Kennedy Catholic High School",
+            "school_linkedin_profile_url":"https://www.linkedin.com/company/1516960/",
+            "school_facebook_profile_url":null,
+            "description":null,
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/kennedy-catholic-high-school/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240918%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240918T062653Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a89b358d34bb920daedeeba4c3ba35a1d668d005f4bba8d11650c26af1b5cdb2",
+            "grade":null,
+            "activities_and_societies":null
+        }
+    ],
+    "languages":[
+        "Chinese",
+        "English",
+        "Korean"
+    ],
+    "accomplishment_organisations":[
+        
+    ],
+    "accomplishment_publications":[
+        
+    ],
+    "accomplishment_honors_awards":[
+        
+    ],
+    "accomplishment_patents":[
+        
+    ],
+    "accomplishment_courses":[
+        
+    ],
+    "accomplishment_projects":[
+        
+    ],
+    "accomplishment_test_scores":[
+        
+    ],
+    "volunteer_work":[
+        {
+            "starts_at":{
+                "day":1,
+                "month":4,
+                "year":2016
+            },
+            "ends_at":{
+                "day":30,
+                "month":9,
+                "year":2016
+            },
+            "title":"Technology Mentor",
+            "cause":"Education",
+            "company":null,
+            "company_linkedin_profile_url":null,
+            "description":"Student Links is an initiative that offers High School students who have intellectual disabilities an opportunity to expand their interests and hobbies, while discovering new possibilities for life after High School. \\n\\nAs a mentor, I have been helping a student build his first website using HTML, JavaScript and CSS. It\\'s an incredibly rewarding experience which has helped me be more grateful in my life and appreciate the community I live in.",
+            "logo_url":null
+        }
+    ],
+    "certifications":[
+        {
+            "starts_at":{
+                "day":1,
+                "month":8,
+                "year":2017
+            },
+            "ends_at":null,
+            "name":"Jitterbit Core Certification",
+            "license_number":null,
+            "display_source":"myabsorb.com",
+            "authority":"Jitterbit",
+            "url":"https://jitterbit.myabsorb.com/Learn/Transcript/Download/93a27223-9b80-4624-9e8c-1ba85cc8476e"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":11,
+                "year":2018
+            },
+            "ends_at":null,
+            "name":"Learning Salesforce.com Development",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/Salesforce-tutorials/Learning-Salesforce-com-Development/609012-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":11,
+                "year":2018
+            },
+            "ends_at":null,
+            "name":"Google Tag Manager",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/Google-Tag-Manager-tutorials/Google-Tag-Manager/693108-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":12,
+                "year":2016
+            },
+            "ends_at":null,
+            "name":"SQL Tips, Tricks, & Techniques",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/SQL-tutorials/SQL-Tips-Tricks-Data-Science/558576-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":6,
+                "year":2016
+            },
+            "ends_at":null,
+            "name":"Big Data Foundations: Techniques and Concepts",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/Data-Science-tutorials/Techniques-Concepts-Big-Data/158656-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":6,
+                "year":2016
+            },
+            "ends_at":null,
+            "name":"Programming Foundations: Databases",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Databases/412845-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":6,
+                "year":2016
+            },
+            "ends_at":null,
+            "name":"Learning Transact-SQL",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/SQL-Server-tutorials/Introduction-Transact-SQL/184140-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":7,
+                "year":2016
+            },
+            "ends_at":null,
+            "name":"Implementing a Data Warehouse with Microsoft SQL Server 2012",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/SQL-Server-tutorials/Implementing-Data-Warehouse-Microsoft-SQL-Server-2012/156150-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":12,
+                "year":2018
+            },
+            "ends_at":null,
+            "name":"Programming Foundations: Algorithms",
+            "license_number":null,
+            "display_source":"lynda.com",
+            "authority":"Lynda.com",
+            "url":"http://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Algorithms/718636-2.html"
+        },
+        {
+            "starts_at":{
+                "day":1,
+                "month":10,
+                "year":2017
+            },
+            "ends_at":null,
+            "name":"Salesforce Certified Marketing Cloud Email Specialist",
+            "license_number":"17847547",
+            "display_source":"salesforce.com",
+            "authority":"Salesforce",
+            "url":"https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=6iMo5jGD4DvXxGdGCj2iACGc2+tW4iCxCOqXPz3JdWFztCqSNsSt03nVLfK4LOPt"
+        }
+    ],
+    "connections":1352,
+    "people_also_viewed":[
+        {
+            "link":"https://www.linkedin.com/in/jordan-anderson-a050892a7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEnfOmUBxQtU8_sIcG8mCncDeaSmEyhEwzA",
+            "name":"Jordan Anderson",
+            "summary":"Accountant",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/dohoon-kim-83465b135?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACEFu-gBizxFMgISJUMQiPwG41XN7cOBLAw",
+            "name":"Dohoon Kim",
+            "summary":"\\bSoftware Developer",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/haqnoor-khan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAvPot0BgX3P4dA_euvWu4GeESvVeot8pwU",
+            "name":"Haqnoor Khan",
+            "summary":"Senior Business Analyst at RBC Royal Bank of Canada",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/abigail-hk?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABsq95wBxD2pnQ_WBFPmWU74Y9gn4x_sVSE",
+            "name":"Abigail Haakyung Lee",
+            "summary":"Software Engineer at Meta/FB | Masters in Robotics @ UPenn",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/jeehyun-hwang?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALmbPgBeFK24byX4PuF3_XmVerRXJPvvjM",
+            "name":"JeeHyun Hwang, Ph.D.",
+            "summary":"Sr. Staff Scientist | Natural Language Processing | Cloud Computing | Machine Learning | Security",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/song9002?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAplHhMBlv-kuR7d6IF4vEM5krlcbM-x3AU",
+            "name":"KC Kyuchon Song",
+            "summary":"Chief Product Officer, PMP",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/szabina-papn%C3%A9-g%C3%B3ger-5a82325a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAx9-9ABbLUaf4KYvE4C_3NQUPS4ZDyybh0",
+            "name":"Szabina Papn\\u00e9 G\\u00f3ger",
+            "summary":"QA engineer",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/jenny-kim-19b36454?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAtxZgcBKWjfDxyhOLoL8bLmFNO5Td0NK2U",
+            "name":"Jenny Kim",
+            "summary":"Full Stack Engineer",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/juria90?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABlYuoBFlaQgpyA9uHq1X6tazRfeX8Clxs",
+            "name":"James Lee",
+            "summary":"SWE",
+            "location":null
+        },
+        {
+            "link":"https://www.linkedin.com/in/angelina-ruan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAExnhrMBj0QRoHpb2aq1dNlo7NZWbsk0sgo",
+            "name":"Angelina Ruan",
+            "summary":"Currently studying accounting at UBC (QS top 50 university) with leadership skills, strong communication, analysis ability and collaborative ",
+            "location":null
+        }
+    ],
+    "recommendations":[
+        "Brendan Kim\\n\\n\\n\\nI had the pleasure of working with Minyoung at RBC for over a year. He consistently demonstrated expertise in software development and strong work ethics. Whenever I assigned him new tasks, he didn\\u2019t hesitate but made great effort to achieve the goals and was willing to go above and beyond to ensure the quality of his work. In addition, he is very passionate about new technology and learning, which helped our team become agile and stay ahead of cutting-edge tech.\\n\\nAlthough I had to leave the team for a new assignment, I am confident that Minyoung would be an excellent asset to your team and make valuable contributions in no time.",
+        "Jude Calvillo\\n\\n\\n\\nThis may end up sounding repetitive, but only because it\\'s true: Minyoung is an absolute pleasure to work with. He\\'s extremely fluent in Salesforce MC development, while being a kind and steady sage of the platform/tech altogether. Moreover, his work ethic is unmatched. He\\'s seemingly always willing to go the extra mile to deliver on time and with smiles all around. I hope to work with him again in the future and would happily recommend him to the largest, most complex of organizations/applications."
+    ],
+    "activities":[
+        
+    ],
+    "similarly_named_profiles":[
+        
+    ],
+    "articles":[
+        
+    ],
+    "groups":[
+        
+    ],
+    "skills":[
+        "Apache Kafka",
+        "Kafka Streams",
+        "Web Services API",
+        "SQL Server Integration Services (SSIS)"
+    ],
+    "inferred_salary":{
+        "min":70000.0,
+        "max":85000.0
+    },
+    "gender":null,
+    "birth_date":null,
+    "industry":"Information Technology and Services",
+    "extra":{
+        "github_profile_id":null,
+        "twitter_profile_id":null,
+        "facebook_profile_id":null
+    },
+    "interests":[
+        
+    ],
+    "personal_emails":[
+        
+    ],
+    "personal_numbers":[
+        
+    ]
+}
